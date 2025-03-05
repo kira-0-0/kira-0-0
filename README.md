@@ -13,11 +13,11 @@
 
 ###
 
-<h4 align="left">A passionate Computer Engineer dedicated to building cutting-edge software systems</h4>
+<h2 align="left">A passionate Computer Engineer dedicated to building cutting-edge software systems</h2>
 
 ###
 
-<h4 align="left">🛠 Tech Stack</h4>
+<h3 align="left">🛠 Tech Stack</h3>
 
 ###
 
